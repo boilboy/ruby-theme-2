@@ -59,7 +59,7 @@ def acchimuite_hoi
    return false
 
   elsif (your_direction == computer_direction && $janken_judge == "lose")
-　 puts "あなたの負けです"
+   puts "あなたの負けです"
    return false
    
   else 
